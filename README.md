@@ -1,8 +1,6 @@
 # Welcome to Mattsmind
 
-Hi, I'm Matt! 👋
-
-I'm a lifelong computer nerd and full-stack developer. My curiosity started early, evolved into a coding addiction, and is now focused on building modern, scalable web applications. 
+Hi, I'm Matt. I'm a self-taught full-stack developer, a lifelong Linux power user, and a relentless learner. Driven by a constant desire for technical education, my obsession with computers started early, evolved into a deep coding addiction, and is now focused on building modern, scalable web applications. 
 
 **My primary mission:** Leveraging modern web ecosystems to transition into a professional app development career.
 
@@ -19,26 +17,21 @@ I'm a lifelong computer nerd and full-stack developer. My curiosity started earl
 
 * **Backend & Frameworks:** C# (.NET Core / Razor Pages), Python (Django)
 * **Databases:** MongoDB, PostgreSQL, MySQL, SQLite
-* **Systems & Build Tools:** C/C++ basics & compilation environments, SVN
+* **Systems, Scripting & Build Tools:** C/C++ basics & compilation environments, SVN, Perl (Legacy)
 
-### Find me elsewhere!
-[MrMattsmind.com](https://mrmattsmind.com)
+### 🐧 Linux, Networking & Security
+*Beyond standard administration, I am comfortable configuring, securing, automating, and troubleshooting environments:*
+
+* **Automation & CLI:** Bash Scripting, `awk`, `sed`, `grep`, `curl`
+* **Protocols & Server Config:** SSH, SCP, FTP, IRCD (IRC Daemons), TeamSpeak, Mumble, SSL/TLS certification
+* **Security & Analysis:** Firewalls (`UFW`, `iptables`), `nmap`, `wireshark`
+
+---
+
+### 🌐 Find me Elsewhere
+* **Website / Portfolio:** [mrmattsmind.com](https://mrmattsmind.com)
 
 ---
 
 *“Deeply focused on modern web apps; deeply rooted in computer science fundamentals.”*
 
-<!--
-**Mattsmind/mattsmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
