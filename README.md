@@ -54,10 +54,33 @@ Hi, I'm Matt. I'm a self-taught full-stack developer, a lifelong Linux power use
 ### 📊 My GitHub Telemetry
 *Live metrics captured straight from my commit logs:*
 
-<p align="left">
+<!-- OPTION THREE -->
+<p align="center">
+  <img src="https://github-readme-stats-seven-fawn-94.vercel.app/api?username=Mattsmind&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=final" alt="Matt's GitHub Stats" height="195" align="top" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://github-readme-stats-seven-fawn-94.vercelapp/api/top-langs/?username=Mattsmind&layout=compact&theme=tokyonight&v=final" alt="Top Languages" height="195" align="top" />
+</p>
+
+<!-- OPTION TWO -->
+<!--
+<table width="100%">
+  <tr>
+    <td valign="center" width="50%" align="center">
+      <img src="https://github-readme-stats-seven-fawn-94.vercel.app/api?username=Mattsmind&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Matt's GitHub Stats" height="195" />
+    </td>
+    <td valign="center" width="50%" align="center">
+      <img src="https://github-readme-stats-seven-fawn-94.vercel.app/api/top-langs?username=Mattsmind&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="195" />
+    </td>
+  </tr>
+</table>
+-->
+
+
+<!-- OPTION ONE -->
+<!-- <p align="left">
   <img src="https://github-readme-stats-seven-fawn-94.vercel.app/api?username=Mattsmind&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Matt's GitHub Stats" height="180" />
   <img src="https://github-readme-stats-seven-fawn-94.vercel.app/api/top-langs?username=Mattsmind&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
-</p>
+</p> -->
 
 ---
 
