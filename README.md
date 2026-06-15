@@ -55,7 +55,7 @@ Hi, I'm Matt. I'm a self-taught full-stack developer, a lifelong Linux power use
 *Live metrics captured straight from my commit logs:*
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mattsmind&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Matt's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mattsmind&show_icons=true&theme=tokyonight&hide_border=true" alt="Matt's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattsmind&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
 </p>
 
