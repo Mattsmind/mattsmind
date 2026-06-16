@@ -5,6 +5,9 @@ on:
     - cron: '0 * * * *' # Runs automatically every hour
   workflow_dispatch: # Lets you trigger it manually click a button
 
+permissions:
+  contents: write
+
 jobs:
   stats:
     runs-on: ubuntu-latest
