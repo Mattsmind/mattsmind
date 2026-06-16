@@ -53,6 +53,11 @@ Hi, I'm Matt. I'm a self-taught full-stack developer, a lifelong Linux power use
 
 ### 📊 My GitHub Telemetry
 *Live metrics captured straight from my commit logs:*
+<!-- OPTION FOUR (TEST) -->
+![Matt's GitHub Stats](https://github-readme-stats-seven-fawn-94.vercel.app/api?username=Mattsmind&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats-seven-fawn-94.vercelapp/api/top-langs?username=Mattsmind&layout=compact&theme=tokyonight)
+
 
 <!-- OPTION THREE -->
 <p align="center">
