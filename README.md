@@ -60,11 +60,13 @@ Hi, I'm Matt. I'm a self-taught full-stack developer, a lifelong Linux power use
 
 
 <!-- OPTION THREE -->
+<!--
 <p align="center">
   <img src="https://github-readme-stats-seven-fawn-94.vercel.app/api?username=Mattsmind&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=final" alt="Matt's GitHub Stats" height="195" align="top" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img src="https://github-readme-stats-seven-fawn-94.vercelapp/api/top-langs/?username=Mattsmind&layout=compact&theme=tokyonight&v=final" alt="Top Languages" height="195" align="top" />
 </p>
+-->
 
 <!-- OPTION TWO -->
 <!--
