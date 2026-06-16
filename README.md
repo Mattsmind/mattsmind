@@ -53,11 +53,19 @@ Hi, I'm Matt. I'm a self-taught full-stack developer, a lifelong Linux power use
 
 ### 📊 My GitHub Telemetry
 *Live metrics captured straight from my commit logs:*
+<!-- VERSION 5 -->
+<p align="center">
+  <img src="https://github-readme-stats-seven-fawn-94.vercelapp/api?username=Mattsmind&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=fixed" alt="Matt's GitHub Stats" height="195" align="top" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://github-readme-stats-seven-fawn-94.vercelapp/api/top-langs?username=Mattsmind&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=fixed" alt="Top Languages" height="195" align="top" />
+</p>
+
 <!-- OPTION FOUR (TEST) -->
+<!--
 ![Matt's GitHub Stats](https://github-readme-stats-seven-fawn-94.vercel.app/api?username=Mattsmind&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats-seven-fawn-94.vercelapp/api/top-langs?username=Mattsmind&layout=compact&theme=tokyonight)
-
+-->
 
 <!-- OPTION THREE -->
 <!--
