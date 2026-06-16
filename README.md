@@ -55,8 +55,7 @@ Hi, I'm Matt. I'm a self-taught full-stack developer, a lifelong Linux power use
 *Live metrics captured straight from my commit logs:*
 
 <p align="center">
-  <img src="./stats.svg" alt="Matt's GitHub Stats" height="195" />
-  <img src="./langs.svg" alt="Top Languages" height="195" />
+  <img src="./github-metrics.svg" alt="Matt's GitHub Telemetry" width="100%" />
 </p>
 
 ---
