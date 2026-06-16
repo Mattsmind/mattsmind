@@ -54,7 +54,7 @@ Hi, I'm Matt. I'm a self-taught full-stack developer, a lifelong Linux power use
 ### 📊 My GitHub Telemetry
 *Live metrics captured straight from my commit logs:*
 
-<p align="center">
+<p align="left">
   <img src="./github-metrics.svg" alt="Matt's GitHub Telemetry" width="75%" />
 </p>
 
