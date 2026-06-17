@@ -7,10 +7,9 @@ Hi, I'm Matt. I'm a self-taught full-stack developer, a lifelong Linux power use
 ---
 
 ### 🛠️ What I'm Tweaking Right Now
-> 🚀 **Project:** **YapCamp** (Campground Review & Rating Engine)
-> * **Current Sprint:** Migrating the database layer to include a Joi bouncer framework, crafting environment-aware global error routing, and spinning up a robust backend `DELETE` cascade architecture.
-> * **Status:** Deploying `v1.2.0` architecture; prepping `v1.3.0` feature branch.
-
+> 🚀 **Project:** **VacancyVibe** (Retro Roadside Motel Discoverability Platform)
+> * **Current Sprint:** Finalizing integration testing for a multi-layer Joi validation bouncer framework, validating automated `.env` environment isolation, and ensuring absolute QA coverage across the RESTful CRUD matrix.
+> * **Status:** Deploying `v2.0.0` architecture; prepping Insomnia testing suites for integration sign-off.
 ---
 
 ### 🚀 Current Core Stack
