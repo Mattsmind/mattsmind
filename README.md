@@ -7,9 +7,11 @@ Hi, I'm Matt. I'm a self-taught full-stack developer, a lifelong Linux power use
 ---
 
 ### 🛠️ What I'm Tweaking Right Now
-> 🚀 **Project:** **VacancyVibe** (Retro Roadside Motel Discoverability Platform)
-> * **Current Sprint:** Finalizing integration testing for a multi-layer Joi validation bouncer framework, validating automated `.env` environment isolation, and ensuring absolute QA coverage across the RESTful CRUD matrix.
-> * **Status:** Deploying `v2.0.0` architecture; prepping Insomnia testing suites for integration sign-off.
+
+**Project:** `VacancyVibe` — A retro roadside motel discoverability platform.
+
+* **Current Sprint:** Architecting secure **User Authentication** workflows. Just finalized a centralized redirect handler within the `errorMiddleware` and wired up dynamic **flash messages** for real-time state feedback.
+* **Status:** Hardening session management and testing authentication guardrails.
 ---
 
 ### 🚀 Current Core Stack
