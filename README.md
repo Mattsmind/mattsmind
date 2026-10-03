@@ -62,7 +62,8 @@ Hi, I'm Matt. I'm a self-taught full-stack developer, a lifelong Linux power use
 ---
 
 ### 🌐 Find me Elsewhere
-* **Website / Portfolio:** [mrmattsmind.com](https://mrmattsmind.com)
+* **Portfolio:** [Portfolio Site](https://portfolio.mrmattsmind.com)
+* **Website:** [Mattsmind](https://mrmattsmind.com)
 
 ---
 
